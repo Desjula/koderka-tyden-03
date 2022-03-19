@@ -12,5 +12,7 @@ html { box-sizing: border-box; }
 
 /* ------------------------------------ */
 
-
+.box{
+	background-image: linear-gradient(to right bottom, blue, green 30%, gold 60%, tomato);
+}
 

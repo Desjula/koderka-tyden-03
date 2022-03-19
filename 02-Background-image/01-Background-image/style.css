@@ -12,5 +12,11 @@ html { box-sizing: border-box; }
 
 /* ------------------------------------ */
 
-
+.box{
+	background-image: url(images/vysoke.jpg);
+	background-size: cover;
+	background-color: gray;
+	background-position: center;
+	background-repeat: no-repeat;
+}
 
